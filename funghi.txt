@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Mozzarella
 tomato sauce
 funghi
 add pepper
+=======
+mozarella
+tomato sauce
+funghi
+>>>>>>> 7bf91772c8f5f1b05a567b10ee7448f26f2ac73e
